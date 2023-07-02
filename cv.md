@@ -1,9 +1,9 @@
 # Musaev Maxim
 ![image](https://phonoteka.org/uploads/posts/2022-09/thumbs/1663368196_1-phonoteka-org-p-berserk-art-manga-instagram-1.jpg)
 ## Contacts:
-**Telegram**: @LightOfHope
-**Phone**: +79003679572
-**E-mail**: kamael-1992@mail.ru
+**Telegram**: @LightOfHope\
+**Phone**: +79003679572\
+**E-mail**: kamael-1992@mail.ru\
 **Discord**: .lightofhope
 ## About me:
 Hi, I work as a SEO specialist and I want to learn front-end development in order to become a front-end developer in the future.
